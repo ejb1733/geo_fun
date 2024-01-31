@@ -1,0 +1,3 @@
+VALUE0	# Basics | Total Population, 2022
+VALUE1	% Household Population 25 to 64 Years by Educational Attainment | Household Population 25 To 64 Years | University Certificate, Diploma Or Degree At Bachelor Level Or Above, 2022
+VALUE2	% Households by Income (Current Year) | Total Households | Household Income $100,000 Or Over (Current Year $), 2022
